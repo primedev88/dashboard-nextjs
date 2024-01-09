@@ -29,6 +29,12 @@
     list-style: none;
 }
 
+.cat{
+    color: var(--textSoft);
+    font-weight: bold;
+    font-size: 13px;
+    margin: 10px 0px;
+}
 .logout{
     padding: 20px;
     margin: 5px 0px;
